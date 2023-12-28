@@ -1,4 +1,5 @@
 # Basic Calculator App
+👉Check it out live at: https://basiccalculatorhadihssn.netlify.app/
 
 This is a basic calculator app made in Flutter. This app contains four functions Addition, Subtraction, Multiplication and Division.
 ## Getting Started
